@@ -36,7 +36,7 @@ Audio hardware design and DSP techniques for high-fidelity transfer of analog me
 
 - **Embedded**: ESP32, C (ESP-IDF 4.4.4+), SPIFFS, NVS
 - **Web & Cloud**: FastAPI, Gunicorn, EMQX MQTT, PostgreSQL
-- **Server: Python, Typescript, JavaScript
+- **Server**: Python, Typescript, JavaScript
 - **Mobile**: React Native, Expo, iOS + Android deployment
 - **DevOps**: GitHub Actions, SSH deployment, Linode
 - **Tooling**: Fusion 360, KiCad 9.x, macOS-based local dev
