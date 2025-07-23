@@ -13,7 +13,7 @@ At **Blue Sky Fusion**, we fuse creativity with engineering to develop tools tha
 
 ## 🧠 Projects
 
-### 🎹 [PianoGuard](https://github.com/Andwardo/dcm-1-firmware)
+### 🎹 PianoGuardDCM-1 https://github.com/BlueSkyFusion/dcm-1-firmware
 An IoT-based monitoring and notification system for the piano maintenance market. Built on ESP32 with secure cloud integration and native mobile app support.
 
 - ESP-IDF firmware: `dcm-1-firmware`
