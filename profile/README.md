@@ -67,7 +67,7 @@ Independent. Privately held. USA-made prototypes and production.
 
 - 🌐 [blueskyfusion.net](https://blueskyfusion.net)
 - 📧 aballard@blueskyfusion.net
-- 🔒 All software © R. A. Ballard & 2025 Blue Sky Fusion, Inc. ALL RIGHTS RESERVED.
+- 🔒 All software, ideas and concepts © R. A. Ballard & 2025 Blue Sky Fusion, Inc. ALL RIGHTS RESERVED.
 
 ---
 
