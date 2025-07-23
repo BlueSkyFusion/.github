@@ -16,10 +16,10 @@ At **Blue Sky Fusion**, we fuse creativity with engineering to develop tools tha
 ### 🎹 PianoGuardDCM-1 https://github.com/BlueSkyFusion/dcm-1-firmware
 An IoT-based monitoring and notification system for the piano maintenance market. Built on ESP32 with secure cloud integration and native mobile app support.
 
-- ESP-IDF firmware: `dcm-1-firmware`
-- React Native App: `pianoguard-app`
-- FastAPI Backend: `pgapi`
-- Factory Flasher: `pianoguard-factory-tool`
+- ESP-IDF firmware: https://github.com/BlueSkyFusion/dcm-1-firmware
+- React Native App: https://github.com/BlueSkyFusion/pianoguard-mobile
+- FastAPI Backend: https://github.com/BlueSkyFusion/pgapi
+- Factory Tool: https://github.com/BlueSkyFusion/pianoguard-factory-tool
 
 ### 🎛️ Audio & MIDI Tools
 Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated hardware solutions for studios and live performance.
