@@ -24,8 +24,10 @@ An IoT-based monitoring and notification system for the piano maintenance market
 ### 🎛️ Audio & MIDI Tools
 Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated hardware solutions for studios and live performance.
 
-- Coming soon: ACCU-WAY™ touchweight measurement tool
-- Ribbon & velocity MIDI 2.0 controller research
+- Coming soon:
+- ACCU-WAY™ touchweight measurement tool for piano technicians
+- Wireless 37-Note Lead Keytar
+- Analog Monophhonic Para-Modular Synthesizer
 
 ### 📼 Cassette & Vintage Audio Restoration
 Audio hardware design and DSP techniques for high-fidelity transfer of analog media.
@@ -37,16 +39,15 @@ Audio hardware design and DSP techniques for high-fidelity transfer of analog me
 - **Embedded**: ESP32, C (ESP-IDF 4.4.4+), SPIFFS, NVS
 - **Web & Cloud**: FastAPI, Gunicorn, EMQX MQTT, PostgreSQL
 - **Server**: Python, Typescript, JavaScript
-- **Mobile**: React Native, Expo, iOS + Android deployment
+- **Mobile**: XCode/Swift, Expo, Android Studio, iOS + Android deployment
 - **DevOps**: GitHub Actions, SSH deployment, Linode
-- **Tooling**: Fusion 360, KiCad 9.x, macOS-based local dev
+- **Tooling**: Fusion 360, KiCad 9.x, macOS and UBUNTU-based local dev
 
 ---
 
 ## 🛠️ Dev Practices
 
 - ✅ Clean commit history, single-responsibility commits
-- 🚫 No AI code suggestions unless explicitly approved
 - 🗃️ PARA file structure, consistent environment labeling
 - 📦 Every repo contains an ESP-IDF-compliant `README.md` and tagged versions for all stable builds
 
@@ -59,7 +60,7 @@ Musician. Technician. Inventor.
 > "Tools should get out of the way and let the artist speak."
 
 **Company**: Blue Sky Fusion, Inc.  
-Independent. Privately held. USA-made prototypes and production.
+Independent. Privately held.
 
 ---
 
