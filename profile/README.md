@@ -18,11 +18,6 @@ An IoT-based monitoring and notification system for the piano maintenance market
 
 - https://www.pianocloud.ai
 
-- ESP-IDF firmware: https://github.com/BlueSkyFusion/dcm-1-firmware
-- React Native App: https://github.com/BlueSkyFusion/pianoguard-mobile
-- FastAPI Backend: https://github.com/BlueSkyFusion/pgapi
-- Factory Tool: https://github.com/BlueSkyFusion/pianoguard-factory-tool
-
 ### 🎛️ Audio & MIDI Tools
 Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated hardware solutions for studios and live performance.
 
