@@ -5,20 +5,20 @@ Empowering creators with intuitive tools and connected solutions.
 
 ---
 
-## 🎯 Mission
+## Mission
 
 At **Blue Sky Fusion**, we fuse creativity with engineering to develop tools that bridge the analog and digital worlds. Our work spans embedded systems, musical technology, audio restoration, and cloud-integrated IoT platforms—each built with precision, elegance, and independence in mind.
 
 ---
 
-## 🧠 Projects
+## Projects
 
-### 🎹 PianoCloud DCM-1
+###  PianoCloud DCM-1
 An IoT-based monitoring and notification system for the piano maintenance market. Built on ESP32 with secure cloud integration and native mobile app support.
 
 - https://www.pianocloud.ai
 
-### 🎛️ Audio & MIDI Tools
+### Audio & MIDI Tools
 Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated hardware solutions for studios and live performance.
 
 - Coming soon:
@@ -26,12 +26,12 @@ Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated ha
 - Wireless 37-Note Lead Keytar
 - Analog Monophhonic Para-Modular Synthesizer
 
-### 📼 Cassette & Vintage Audio Restoration
+### Cassette & Vintage Audio Restoration
 Audio hardware design and DSP techniques for high-fidelity transfer of analog media.
 
 ---
 
-## 🔐 Technology Stack
+## Technology Stack
 
 - **Embedded**: ESP32, C (ESP-IDF 4.4.4+), SPIFFS, NVS
 - **Web & Cloud**: FastAPI, Gunicorn, EMQX MQTT, PostgreSQL
@@ -42,15 +42,15 @@ Audio hardware design and DSP techniques for high-fidelity transfer of analog me
 
 ---
 
-## 🛠️ Dev Practices
+## Dev Practices
 
-- ✅ Clean commit history, single-responsibility commits
-- 🗃️ PARA file structure, consistent environment labeling
-- 📦 Every repo contains an ESP-IDF-compliant `README.md` and tagged versions for all stable builds
+- Clean commit history, single-responsibility commits
+- PARA file structure, consistent environment labeling
+- Every repo contains an ESP-IDF-compliant `README.md` and tagged versions for all stable builds
 
 ---
 
-## 👋 Who We Are
+## Who We Are
 
 **Founder**: R. Andrew Ballard (Andwardo)  
 Musician. Technician. Inventor.  
@@ -61,11 +61,11 @@ Independent. Privately held.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 🌐 [blueskyfusion.net](https://blueskyfusion.net)
-- 📧 aballard@blueskyfusion.net
-- 🔒 All software, ideas and concepts © R. A. Ballard & 2025 Blue Sky Fusion, Inc. ALL RIGHTS RESERVED.
+- aballard@blueskyfusion.net
+- All software, ideas and concepts © R. A. Ballard & 2025 Blue Sky Fusion, Inc. ALL RIGHTS RESERVED.
 
 ---
 
