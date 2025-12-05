@@ -1,4 +1,4 @@
-# 🌐 Blue Sky Fusion, Inc.
+# Blue Sky Fusion, Inc.
 
 **Synthesizing Art, Music and Technology.**  
 Empowering creators with intuitive tools and connected solutions.
@@ -63,7 +63,7 @@ Independent. Privately held.
 
 ## Contact
 
-- 🌐 [blueskyfusion.net](https://blueskyfusion.net)
+- [blueskyfusion.net](https://blueskyfusion.net)
 - aballard@blueskyfusion.net
 - All software, ideas and concepts © R. A. Ballard & 2025 Blue Sky Fusion, Inc. ALL RIGHTS RESERVED.
 
