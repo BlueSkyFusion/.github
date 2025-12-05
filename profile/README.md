@@ -1,4 +1,4 @@
-# 🌌 Blue Sky Fusion, Inc.
+# 🌐 Blue Sky Fusion, Inc.
 
 **Synthesizing Art, Music and Technology.**  
 Empowering creators with intuitive tools and connected solutions.
