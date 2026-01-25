@@ -11,13 +11,6 @@ At **Blue Sky Fusion**, we fuse creativity with engineering to develop tools tha
 
 ---
 
-## Projects
-
-###  PianoCloud DCM-1
-An IoT-based monitoring and notification system for the piano maintenance market. Built on ESP32 with secure cloud integration and native mobile app support.
-
-- https://www.pianocloud.ai
-
 ### Audio & MIDI Tools
 Custom MIDI controllers, analog-to-digital hybrid designs, and DAW-integrated hardware solutions for studios and live performance.
 
